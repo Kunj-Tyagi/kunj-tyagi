@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 ## Skills
 
 - **Languages**: JavaScript, TypeScript, C++, C
-- **Frameworks**: Reactjs, Node.js, Bootstrap
+- **Frameworks**: Reactjs, Node.js, Expressjs, Bootstrap
 - **Tools**: Git, Docker, Kubernetes, AWS
 
   ## GitHub Stats
