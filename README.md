@@ -11,13 +11,24 @@ Welcome to my GitHub profile!
 
 ## Skills
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, Kubernetes
+- **Languages**: JavaScript, TypeScript, C++, C
+- **Frameworks**: Reactjs, Node.js, Bootstrap
+- **Tools**: Git, Docker, Kubernetes, AWS
+
+  ## GitHub Stats
+
+- **Total Repositories**: 14
+- **Total Forks**: 1
+- **Total Stars**: 5
+
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kunj-tyagi/)
+- [Email](kunjtyagi24@gmail.com)
 - [Twitter](https://twitter.com/KunjTyagi)
+- [Codeforces](https://codeforces.com/)
+- [Codechef](https://www.codechef.com/users/rdx_kunj)
+- [Leetcode](https://leetcode.com/u/kunjtyagi24/)
 
 Thanks for visiting my profile!# kunj-tyagi
