@@ -2,25 +2,36 @@
 
 Welcome to my GitHub profile!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api?username=Kunj-Tyagi" alt="kunjtyagi24@gmail.com" /></a> </p>
-
-## About Me
+## 🚀 About Me
 
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 👯 I’m looking to collaborate on exciting projects.
 - 💬 Ask me about anything related to software development.
 - ⚡ Fun fact: I love solving puzzles and coding challenges.
 
-## Skills
+## 🛠 My Skills
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, Kubernetes
+- **Languages**: JavaScript, C++, TypeScript
+- **Frameworks**: Reactjs, Expressjs, Bootstrap
+- **Tools**: Git, Github ,Docker, Kubernetes, AWS, Postman
+
+## 📈 GitHub Stats
+![Kunj's Github stats](https://github-readme-stats.vercel.app/api?username=Kunj-Tyagi&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kunj-Tyagi&theme=radical&no-frame=false&column=3&margin-w=15&margin-h=15)
+
+# WanderLust
+
+[Check out the live project here](https://wanderlust-3-6a75.onrender.com)
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kunj-tyagi/)
-- [Email](kunjtyagi24@gmail.com)
+- [Email](mailto:kunjtyagi24@gmail.com)
 - [Twitter](https://twitter.com/KunjTyagi)
+- [Codeforces](https://codeforces.com/)
+- [Codechef](https://www.codechef.com/users/rdx_kunj)
+- [Leetcode](https://leetcode.com/u/kunjtyagi24/)
 
-Thanks for visiting my profile!
+Thanks for visiting my profile!# kunj-tyagi
