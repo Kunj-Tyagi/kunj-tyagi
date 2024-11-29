@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile!
 
+![Profile Views](https://komarev.com/ghpvc/?username=Kunj-Tyagi&color=blueviolet)
+
 ## 🚀 About Me
 
 - 🌱 I’m currently learning new technologies and improving my coding skills.
