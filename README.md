@@ -17,8 +17,11 @@ Welcome to my GitHub profile!
 - **Frameworks**: Reactjs, Expressjs, Bootstrap
 - **Tools**: Git, Github ,Docker, Kubernetes, AWS, Postman
 
+
+
 ## 📈 GitHub Stats
-![Kunj's Github stats](https://github-readme-stats.vercel.app/api?username=Kunj-Tyagi&show_icons=true&theme=radical)
+![Kunj's G## 🐍 Snake Animation
+![Snake animation](https://raw.githubusercontent.com/Kunj-Tyagi/Kunj-Tyagi/output/snake.svg)ithub stats](https://github-readme-stats.vercel.app/api?username=Kunj-Tyagi&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kunj-Tyagi&theme=radical&no-frame=false&column=3&margin-w=15&margin-h=15)
