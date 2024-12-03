@@ -18,10 +18,14 @@ Welcome to my GitHub profile!
 - **Tools**: Git, Github, Docker, Kubernetes, AWS, Postman
 
 ## 📈 GitHub Stats
-![Kunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunj-Tyagi&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunj-Tyagi&show_icons=true&theme=radical" alt="Kunj's GitHub stats" />
+</p>
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kunj-Tyagi&theme=radical&no-frame=false&column=3&margin-w=15&margin-h=15)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kunj-Tyagi&theme=radical&no-frame=false&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 # WanderLust
 
