@@ -15,13 +15,13 @@ Welcome to my GitHub profile!
 
 - **Languages**: JavaScript, C++, TypeScript
 - **Frameworks**: Reactjs, Expressjs, Bootstrap
-- **Tools**: Git, Github ,Docker, Kubernetes, AWS, Postman
-
-
+- **Tools**: Git, Github, Docker, Kubernetes, AWS, Postman
 
 ## 📈 GitHub Stats
-![Kunj's G## 🐍 Snake Animation
-![Snake animation](https://raw.githubusercontent.com/Kunj-Tyagi/Kunj-Tyagi/output/snake.svg)ithub stats](https://github-readme-stats.vercel.app/api?username=Kunj-Tyagi&show_icons=true&theme=radical)
+![Kunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunj-Tyagi&show_icons=true&theme=radical)
+
+## 🐍 Snake Animation
+![Snake animation](https://raw.githubusercontent.com/Kunj-Tyagi/Kunj-Tyagi/output/snake.svg)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kunj-Tyagi&theme=radical&no-frame=false&column=3&margin-w=15&margin-h=15)
@@ -39,4 +39,4 @@ Welcome to my GitHub profile!
 - [Codechef](https://www.codechef.com/users/rdx_kunj)
 - [Leetcode](https://leetcode.com/u/kunjtyagi24/)
 
-Thanks for visiting my profile!# kunj-tyagi
+Thanks for visiting my profile!
