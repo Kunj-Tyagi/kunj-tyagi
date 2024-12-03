@@ -20,9 +20,6 @@ Welcome to my GitHub profile!
 ## 📈 GitHub Stats
 ![Kunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunj-Tyagi&show_icons=true&theme=radical)
 
-## 🐍 Snake Animation
-![Snake animation](https://raw.githubusercontent.com/Kunj-Tyagi/Kunj-Tyagi/output/snake.svg)
-
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kunj-Tyagi&theme=radical&no-frame=false&column=3&margin-w=15&margin-h=15)
 
