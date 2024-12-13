@@ -40,10 +40,8 @@ Welcome to my GitHub profile!
 
 <span>
 <a href="https://www.linkedin.com/in/kunj-tyagi-07688423b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
-
 <a href="https://github.com/Kunj-Tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
-
-<a href="https://twitter.com/KunjTyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
+<a href="https://twitter.com/KunjTyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kunj Tyagi" height="30" width="40" /></a></span>
 
 <br><br>
 Thanks for visiting my profile!
