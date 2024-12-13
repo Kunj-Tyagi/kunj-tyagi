@@ -47,10 +47,10 @@ Welcome to my GitHub profile!
 <!-- </p> -->
 <!-- </span> -->
 <a href="https://twitter.com/KunjTyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
-- [Email](mailto:kunjtyagi24@gmail.com)
-- [Twitter](https://twitter.com/KunjTyagi)
-- [Codeforces](https://codeforces.com/)
-- [Codechef](https://www.codechef.com/users/rdx_kunj)
-- [Leetcode](https://leetcode.com/u/kunjtyagi24/)
+<a href="https://www.codechef.com/users/rdx_kunj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
+<a href="https://www.codeforces.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kunjtyagi24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
+<a href="mailto:kunjtyagi24@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
+
 
 Thanks for visiting my profile!
