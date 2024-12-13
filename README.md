@@ -20,11 +20,13 @@ Welcome to my GitHub profile!
 - **Tools**: Git, Github, Docker, Kubernetes, AWS, Postman
 
 ## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kunj-Tyagi&show_icons=true&theme=radical" alt="Kunj's GitHub stats" />
 </p>
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kunj-Tyagi&theme=radical&no-frame=false&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
@@ -36,12 +38,14 @@ Welcome to my GitHub profile!
 ## Connect with Me
 
 <!-- <h3 align="left">Connect with me:</h3> -->
-<p align="left">
+<span>
+  <p align="left">
 <a href="https://www.linkedin.com/in/kunj-tyagi-07688423b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
 </p>
 <p align="left">
 <a href="https://github.com/Kunj-Tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
 </p>
+</span>
 - [Email](mailto:kunjtyagi24@gmail.com)
 - [Twitter](https://twitter.com/KunjTyagi)
 - [Codeforces](https://codeforces.com/)
