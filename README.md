@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/1ZvVkDc.gif" alt="gif for github"></img>
+
 # Hi there, I'm Kunj Tyagi 👋
 
 Welcome to my GitHub profile!
