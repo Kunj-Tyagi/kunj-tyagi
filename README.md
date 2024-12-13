@@ -35,7 +35,10 @@ Welcome to my GitHub profile!
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/kunj-tyagi/)
+<!-- <h3 align="left">Connect with me:</h3> -->
+<p align="left">
+<a href="https://www.linkedin.com/in/kunj-tyagi-07688423b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
+</p>
 - [Email](mailto:kunjtyagi24@gmail.com)
 - [Twitter](https://twitter.com/KunjTyagi)
 - [Codeforces](https://codeforces.com/)
