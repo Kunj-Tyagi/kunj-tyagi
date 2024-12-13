@@ -37,20 +37,13 @@ Welcome to my GitHub profile!
 
 ## Connect with Me
 
-<!-- <h3 align="left">Connect with me:</h3> -->
+
 <span>
-  <!-- <p align="left"> -->
 <a href="https://www.linkedin.com/in/kunj-tyagi-07688423b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
-<!-- </p> -->
-<!-- <p > -->
+
 <a href="https://github.com/Kunj-Tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
-<!-- </p> -->
-<!-- </span> -->
+
 <a href="https://twitter.com/KunjTyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/rdx_kunj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
-<a href="https://www.codeforces.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Kunj Tyagi" height="30" width="40" /></a> -->
-<a href="https://leetcode.com/u/kunjtyagi24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
-<a href="https://kunjtyagi24@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
 
-
+<br><br>
 Thanks for visiting my profile!
