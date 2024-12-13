@@ -44,8 +44,9 @@ Welcome to my GitHub profile!
 <!-- </p> -->
 <!-- <p > -->
 <a href="https://github.com/Kunj-Tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
-</p>
+<!-- </p> -->
 <!-- </span> -->
+<a href="https://twitter.com/KunjTyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
 - [Email](mailto:kunjtyagi24@gmail.com)
 - [Twitter](https://twitter.com/KunjTyagi)
 - [Codeforces](https://codeforces.com/)
