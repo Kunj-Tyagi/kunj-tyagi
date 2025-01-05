@@ -6,14 +6,6 @@ Welcome to my GitHub profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kunj-Tyagi&color=blueviolet)
 
-## Table of Contents
-- [🚀 About Me](#-about-me)
-- [🛠 My Skills](#-my-skills)
-- [📈 GitHub Stats](#-github-stats)
-- [🏆 GitHub Trophies](#-github-trophies)
-- [WanderLust](#wanderlust)
-- [Connect with Me](#connect-with-me)
-
 ## 🚀 About Me
 
 - 🌱 I’m currently learning new technologies and improving my coding skills.
@@ -22,6 +14,10 @@ Welcome to my GitHub profile!
 - ⚡ Fun fact: I love solving puzzles and coding challenges.
 
 ## 🛠 My Skills
+
+<!-- - **Languages**: JavaScript, C++, TypeScript
+- **Frameworks**: Reactjs, Expressjs, Bootstrap
+- **Tools**: Git, Github, Docker, Kubernetes, AWS, Postman -->
 
 ### Programming Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,12 +44,11 @@ Welcome to my GitHub profile!
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kunj-Tyagi&show_icons=true&theme=radical" alt="Kunj's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunj-Tyagi&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunj-Tyagi&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -68,11 +63,11 @@ Welcome to my GitHub profile!
 
 ## Connect with Me
 
+
 <span>
 <a href="https://www.linkedin.com/in/kunj-tyagi-07688423b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
 <a href="https://github.com/Kunj-Tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
-<a href="https://twitter.com/KunjTyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kunj Tyagi" height="30" width="40" /></a>
-</span>
+<a href="https://twitter.com/KunjTyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kunj Tyagi" height="30" width="40" /></a></span>
 
 <br><br>
 Thanks for visiting my profile!
