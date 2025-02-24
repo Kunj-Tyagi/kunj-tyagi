@@ -13,6 +13,10 @@ Welcome to my GitHub profile!
 - 💬 Ask me about anything related to software development.
 - ⚡ Fun fact: I love solving puzzles and coding challenges.
 
+## 👨🏻‍💻 My Portfolio
+
+[Portfolio](https://kunjtyagi.netlify.app/)
+
 ## 🛠 My Skills
 
 <!-- - **Languages**: JavaScript, C++, TypeScript
